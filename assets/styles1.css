@@ -1,0 +1,14 @@
+
+html,
+body,
+.wrapper {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body { /* Body font and color */
+    font-family: 'Rubik', sans-serif;
+    background-color: #ffffff;
+  }
+
